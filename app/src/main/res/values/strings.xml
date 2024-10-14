@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Job Portal</string>
+
+    <string name="login_page">Login</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="register_page">Register</string>
+</resources>
